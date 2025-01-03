@@ -66,10 +66,6 @@ This information was compiled, processed, and normalized to create a comprehensi
 - **Heatmap Overview**: ![Heatmap Overview](screenshot.png)
 - **Tooltip Example**: ![Tooltip Example](tooltip.png)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - **Folium Library**: For simplifying the creation of interactive maps.
