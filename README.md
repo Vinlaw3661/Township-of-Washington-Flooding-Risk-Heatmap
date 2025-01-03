@@ -1,6 +1,6 @@
 # Flood Risk Heatmap for Washington Township
 
-This project visualizes flood-prone areas and calculates flood risk based on data collected from the residents of Washington Township. The heatmap displays normalized risk scores for various streets, offering an intuitive representation of potential flood hazards.
+This project visualizes [flood-prone areas](https://vinlaw3661.github.io/township-of-washington-flood-risk-heatmap/) and calculates flood risk based on data collected from the residents of Washington Township. The heatmap displays normalized risk scores for various streets, offering an intuitive representation of potential flood hazards.
 
 ## Project Overview
 
